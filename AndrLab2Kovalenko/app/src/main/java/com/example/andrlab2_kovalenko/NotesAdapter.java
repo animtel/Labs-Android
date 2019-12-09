@@ -1,4 +1,4 @@
-package ua.sheviakov.lab_2;
+package com.example.andrlab2_kovalenko;
 
 import android.graphics.Bitmap;
 import android.graphics.Color;
@@ -12,7 +12,7 @@ import java.text.SimpleDateFormat;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import ua.sheviakov.lab_2.R;
+import com.example.andrlab2_kovalenko.R;
 
 import java.util.ArrayList;
 import java.util.List;

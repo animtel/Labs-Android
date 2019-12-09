@@ -1,4 +1,4 @@
-package ua.sheviakov.lab_2;
+package com.example.andrlab2_kovalenko;
 
 import android.content.ContentValues;
 import android.content.Context;

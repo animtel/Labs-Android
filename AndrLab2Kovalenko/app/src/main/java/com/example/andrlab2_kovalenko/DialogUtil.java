@@ -1,4 +1,4 @@
-package ua.sheviakov.lab_2;
+package com.example.andrlab2_kovalenko;
 
 
 import android.app.DatePickerDialog;
@@ -9,7 +9,7 @@ import android.view.View;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 
-import ua.sheviakov.lab_2.R;
+import com.example.andrlab2_kovalenko.R;
 
 import java.util.Calendar;
 import java.util.Date;

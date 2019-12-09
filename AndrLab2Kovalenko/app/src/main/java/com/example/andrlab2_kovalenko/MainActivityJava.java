@@ -1,4 +1,4 @@
-package ua.sheviakov.lab_2;
+package com.example.andrlab2_kovalenko;
 
 import android.app.Activity;
 import android.app.SearchManager;
@@ -20,7 +20,7 @@ import androidx.appcompat.widget.SearchView;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import ua.sheviakov.lab_2.R;
+import com.example.andrlab2_kovalenko.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;

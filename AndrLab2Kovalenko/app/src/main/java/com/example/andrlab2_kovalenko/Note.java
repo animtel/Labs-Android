@@ -1,4 +1,4 @@
-package ua.sheviakov.lab_2;
+package com.example.andrlab2_kovalenko;
 
 import android.os.Parcel;
 import android.os.Parcelable;
